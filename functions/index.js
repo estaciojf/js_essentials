@@ -7,7 +7,7 @@ const f2 = function() {
 }
 
 const f3 = () => {
-  console.log('Eu sou uma arrow function...')
+  console.log('Eu sou uma arrow function..... Alteracao')
 }
 
 const sumTwoNumbers = (a, b) => a + b;
